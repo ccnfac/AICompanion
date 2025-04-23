@@ -1,5 +1,3 @@
-Here's a revised and upgraded pitch for **AI Companion**—positioned as a $100M moonshot in the AI + Edge Hardware space, focused on autonomy, safety, health, and education:
-
 ---
 
 # AI Companion
@@ -10,7 +8,8 @@ We are currently seeking a **$100 million investment** to develop and scale the 
 
 ---
 
-![AI Companion Concept](https://github.com/user-attachments/assets/your-generated-image-placeholder)
+![d909359a-f220-459b-b5a2-fc1c0b3c31f4](https://github.com/user-attachments/assets/b2999b3b-e889-4775-8fe4-94e0b45f5290)
+
 
 ---
 
