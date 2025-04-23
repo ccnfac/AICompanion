@@ -2,7 +2,7 @@
 
 # AI Companion
 
-Welcome to the official repository for [**AI Companion**](https://github.com/caddison/AeroCompanion/wiki) — a revolutionary **portable AI assistant** integrating **computer vision**, **multilingual LLMs**, **voice control**, and **Palantir-style ontology systems** to solve real-world problems across security, education, health, and automation.
+Welcome to the official repository for [**AI Companion**](https://github.com/caddison/AICompanion) — a revolutionary **portable AI assistant** integrating **computer vision**, **multilingual LLMs**, **voice control**, and **Palantir-style ontology systems** to solve real-world problems across security, education, health, and automation.
 
 We are currently seeking a **$100 million investment** to develop and scale the AI Companion prototype, a device poised to become the personal AI terminal of the 21st century—**offline-first**, voice-native, and vision-aware.
 
