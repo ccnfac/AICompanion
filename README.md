@@ -69,7 +69,7 @@ The world is shifting toward **localized intelligence**, where AI operates at th
 ## 💼 Revenue Model
 
 We offer AI Companion in two tiers:
-- **Standalone Device** ($199–$499 per unit, depending on configuration)
+- **Standalone Device** ($199–$2499 per unit, depending on configuration)
 - **AI Companion as a Service (AICaaS)** — monthly subscription model for:
   - Feature updates
   - Language packs
