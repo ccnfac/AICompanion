@@ -88,10 +88,8 @@ We are raising **$100 million** to:
 
 ---
 
-## 📸 Screenshots / Prototypes
+## 📸 Screenshots
 
-> *Coming Soon...*
+*Coming Soon...*
 
 ---
-
-Let me know if you’d like a **pitch deck**, **cap table simulation**, or a **hardware BOM + CAD renderings** to go along with this. I can also generate mockups for each use case if you want to pitch to niche verticals.
