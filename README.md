@@ -90,7 +90,7 @@ We are raising **$100 million** to:
 
 ## 📸 Screenshots / Prototypes
 
-> *(Insert prototype renders and use-case images once available)*
+> *Coming Soon...*
 
 ---
 
