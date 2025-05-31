@@ -1,4 +1,10 @@
+---
 
+# AI Companion
+
+Welcome to the official repository for [**AI Companion**](https://github.com/caddison/AICompanion) — a revolutionary **portable AI assistant** integrating **computer vision**, **multilingual LLMs**, **voice control**, and **Palantir-style ontology systems** to solve real-world problems across security, education, health, and automation.
+
+---
 
 ![d909359a-f220-459b-b5a2-fc1c0b3c31f4](https://github.com/user-attachments/assets/b2999b3b-e889-4775-8fe4-94e0b45f5290)
 
@@ -94,7 +100,7 @@ We offer AI Companion in two configurations:
 
 ## 📈 Investment Opportunity
 
-We are raising **\$100 million** to:
+We are raising money to:
 
 * Finalize prototype and secure rugged, attritable device design
 * Establish manufacturing at scale
