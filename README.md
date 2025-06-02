@@ -20,7 +20,7 @@ The future is edge-native. AI Companion enables **localized, attritable intellig
 
 ### 🧠 Mental Health & Learning
 
-* **Mental Health Copilot**: Secure, offline journaling and emotion monitoring via voice and facial sentiment.
+* **Mental Health Copilot**: Secure, offline journaling and emotion monitoring sentiment.
 * **LLM Tutor**: Real-time multilingual tutor using computer vision and speech.
 
 ### 🏥 Healthcare & Clinics
@@ -61,14 +61,6 @@ The future is edge-native. AI Companion enables **localized, attritable intellig
 
 ---
 
-## 🎯 Modes of Operation
-
-* **Track**: Follow identified threat or object across networked cameras
-* **Surveil**: Passive monitor mode with facial recognition and visual anomaly alerts
-* **Recon**: Scan area, sweep for threat signatures, report findings via voice or API
-
----
-
 ## 🔐 Security-First Design
 
 * **Offline-first AI** — no cloud dependencies
@@ -81,7 +73,6 @@ The future is edge-native. AI Companion enables **localized, attritable intellig
 
 * **Instant camera mesh** with linkable URLs
 * Users can spin up and share secure camera feeds
-* Uses AI to scan CamNetwork feeds
 * Triangulated location from multiple acoustic sensors
 * Integration-ready with Palantir/Gotham-style backends
 
@@ -105,7 +96,7 @@ We are raising money to:
 * Finalize prototype and secure rugged, attritable device design
 * Establish manufacturing at scale
 * Build software pipelines and cloud integration for law enforcement, schools, and cities
-* Pilot deployments across **U.S. school districts**, **urban police departments**, and **healthcare systems**
+* Pilot deployments across **U.S. school districts** and **urban police departments** 
 
 ---
 
