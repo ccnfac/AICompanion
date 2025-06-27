@@ -12,7 +12,7 @@ Welcome to the official repository for [**AI Companion**](https://github.com/cad
 
 ## 🚀 Why AI Companion?
 
-The future is edge-native. AI Companion enables **localized, attritable intelligence** with **real-time, privacy-respecting inference**. Whether for **city-wide surveillance**, **school safety**, **store automation**, or **AI-first health clinics**, this is **AI where you need it**—**not in the cloud**.
+The future is edge-native. AI Companion enables **localized, attritable intelligence** with **real-time, privacy-respecting inference**. Whether for **city-wide surveillance**, **school safety**, **store automation**, or **AI-first health clinics**, this is **AI where you need it**.
 
 ---
 
