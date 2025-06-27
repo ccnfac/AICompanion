@@ -61,7 +61,7 @@ The future is edge-native. AI Companion enables **localized, attritable intellig
 
 ---
 
-## 📡 CamNetwork
+## 📡 Camera Network
 
 * **Instant camera mesh** with linkable URLs
 * Users can spin up and share secure camera feeds
@@ -74,11 +74,11 @@ The future is edge-native. AI Companion enables **localized, attritable intellig
 ## 💼 Revenue Model
 
 We offer AI Companion in two configurations:
-packs
+
 | Tier                                   | Description                                                                                |
 | -------------------------------------- | ------------------------------------------------------------------------------------------ |
 | **Standalone Device**                  | Local-only mode with optional cloud sync. Price: \$499–\$2499 depending on kit             |
-| **AI Companion as a Service (AICaaS)** | Subscription includes: updates, APIs, ontology sync, AI models, secure cloud features      |
+| **AI as a Service (AIaaS)**            | Subscription includes: updates, APIs, ontology sync, AI models, secure cloud features      |
 
 ---
 
