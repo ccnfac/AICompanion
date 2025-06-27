@@ -21,22 +21,22 @@ The future is edge-native. AI Companion enables **localized, attritable intellig
 ### 🧠 Mental Health & Learning
 
 * **Mental Health Copilot**: Secure, offline journaling and emotion monitoring sentiment.
-* **LLM Tutor**: Real-time multilingual tutor using computer vision and speech.
+* **LLM Tutor & Translator**: Real-time multilingual tutor and translation services using text to speech.
 
 ### 🏥 Healthcare & Clinics
 
-* **Multilingual Patient Check-In**: Visual + verbal onboarding using edge devices to optimize check in.
-* **LLM Medical Assistant**: Context-aware diagnosis support with optional integration with palantir ontology.
+* **Multilingual Patient Check-In**: Visual + Verbal onboarding using edge devices to optimize check in process.
+* **LLM Medical Assistant**: Context-aware diagnosis support with **optional** integration with cloud based LLM providers (i.e. Chatgpt, Claude, Gemini, Deepseek, etc).
 
 ### 🏫 School Safety & Access Control
 
 * Parent-child facial matching (optional)
-* **Gun visual ID** + **gunshot detection** with real-time triangulation
+* **Gun visual ID** + **Gunshot detection** with real-time triangulation
 * Emergency response notifications via police-linked ontology
 
 ### 🛍️ Store Automation
 
-* **Hands-Free Checkout**: Vision + voice shopping assistant with voice-authorized payments.
+* **Hands-Free Checkout**: Vision + Voice shopping assistant with voice-authorized payments.
 * **Checkbook.io Integration**: Digital checks via voice-to-payment with audit trails.
 
 ### 🚔 City & Law Enforcement
@@ -61,31 +61,24 @@ The future is edge-native. AI Companion enables **localized, attritable intellig
 
 ---
 
-## 🔐 Security-First Design
-
-* **Offline-first AI** — no cloud dependencies
-* Encrypted local inference with secure update and access layers
-* Firmware tamper detection and signed runtime
-
----
-
 ## 📡 CamNetwork
 
 * **Instant camera mesh** with linkable URLs
 * Users can spin up and share secure camera feeds
 * Triangulated location from multiple acoustic sensors
 * Integration-ready with Palantir/Gotham-style backends
+* Upgradeable with user selected AI Models (i.e. target identification, object recognition, etc)
 
 ---
 
 ## 💼 Revenue Model
 
 We offer AI Companion in two configurations:
-
+packs
 | Tier                                   | Description                                                                                |
 | -------------------------------------- | ------------------------------------------------------------------------------------------ |
-| **Standalone Device**                  | Local-only mode with optional cloud sync. Price: \$199–\$2499 depending on kit             |
-| **AI Companion as a Service (AICaaS)** | Subscription includes: updates, APIs, ontology sync, language packs, secure cloud features |
+| **Standalone Device**                  | Local-only mode with optional cloud sync. Price: \$499–\$2499 depending on kit             |
+| **AI Companion as a Service (AICaaS)** | Subscription includes: updates, APIs, ontology sync, AI models, secure cloud features      |
 
 ---
 
