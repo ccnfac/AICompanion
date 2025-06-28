@@ -26,7 +26,7 @@ The future is edge-native. AI Companion enables **localized, attritable intellig
 ### 🏥 Healthcare & Clinics
 
 * **Multilingual Patient Check-In**: Visual + Verbal onboarding using edge devices to optimize check in process.
-* **LLM Medical Assistant**: Context-aware diagnosis support with **optional** integration with cloud based LLM providers (i.e. Chatgpt, Claude, Gemini, Deepseek, etc).
+* **LLM Medical Assistant**: Context-aware diagnosis support with **optional** integration with cloud based LLM providers (i.e. Chatgpt, Claude, Grok, Gemini, Deepseek, etc).
 
 ### 🏫 School Safety & Access Control
 
