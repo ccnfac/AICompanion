@@ -2,7 +2,7 @@
 
 # AI Companion
 
-Welcome to the official repository for [**AI Companion**](https://github.com/caddison/AICompanion) — a revolutionary **portable AI assistant** integrating **computer vision**, **multilingual LLMs**, **voice control**, and **Palantir-style ontology systems** to solve real-world problems across security, education, health, and automation.
+Welcome to the official repository for [**AI Companion**](https://github.com/caddison/AICompanion) — a revolutionary **portable AI assistant** integrating **computer vision**, **multilingual LLMs**, **voice control**, and **Palantir style ontology systems** to solve real world problems across security, education, health, and automation.
 
 ---
 
@@ -12,7 +12,7 @@ Welcome to the official repository for [**AI Companion**](https://github.com/cad
 
 ## 🚀 Why AI Companion?
 
-The future is edge-native. AI Companion enables **localized, attritable intelligence** with **real-time, privacy-respecting inference**. Whether for **city-wide surveillance**, **school safety**, **store automation**, or **AI-first health clinics**, this is **AI where you need it**.
+The future is edge native. AI Companion enables **localized, attritable intelligence** with **real time, privacy respecting inference**. Whether for **city-wide surveillance**, **school safety**, **store automation**, or **AI first health clinics**, this is **AI where you need it**.
 
 ---
 
@@ -21,30 +21,30 @@ The future is edge-native. AI Companion enables **localized, attritable intellig
 ### 🧠 Mental Health & Learning
 
 * **Mental Health Copilot**: Secure, offline journaling and emotion monitoring sentiment.
-* **LLM Tutor & Translator**: Real-time multilingual tutor and translation services using text to speech **optional** integration with cloud based LLM providers (i.e. Chatgpt, Claude, Grok, Gemini, Deepseek, etc).
+* **LLM Tutor & Translator**: Real time multilingual tutor and translation services using text to speech **optional** integration with cloud based LLM providers (i.e. Chatgpt, Claude, Grok, Gemini, Deepseek, etc).
 
 ### 🏥 Healthcare & Clinics
 
 * **Multilingual Patient Check-In**: Visual + Verbal onboarding using edge devices to optimize check in process.
-* **LLM Medical Assistant**: Context-aware diagnosis support with **optional** integration with cloud based LLM providers (i.e. Chatgpt, Claude, Grok, Gemini, Deepseek, etc).
+* **LLM Medical Assistant**: Context aware diagnosis support with **optional** integration with cloud based LLM providers (i.e. Chatgpt, Claude, Grok, Gemini, Deepseek, etc).
 
 ### 🏫 School Safety & Access Control
 
 * Parent-child facial matching (optional)
-* **Gun visual ID** + **Gunshot detection** with real-time triangulation
-* Emergency response notifications via police-linked ontology
+* **Gun visual ID** + **Gunshot detection** with real time triangulation
+* Emergency response notifications via police linked ontology
 
 ### 🛍️ Store Automation
 
-* **Hands-Free Checkout**: Vision + Voice shopping assistant with voice-authorized payments.
+* **Hands-Free Checkout**: Vision + Voice shopping assistant with voice authorized payments.
 * **Checkbook.io Integration**: Digital checks via voice-to-payment with audit trails.
 
 ### 🚔 City & Law Enforcement
 
 * **Mobile AI Surveillance Units**: Deployable on poles, rooftops, or vehicles with counter support integration
 * **CamNetwork**: Shareable URLs, instant camera mesh, scalable from a classroom to an entire city
-* **Drone Support**: Real-time drone deployment on incident detection with visual/thermal tracking
-* **Gimbal Kits**: Gimbal-based target tracking and automatic sound triangulation
+* **Drone Support**: Real time drone deployment on incident detection with visual/thermal tracking
+* **Gimbal Kits**: Gimbal based target tracking and automatic sound triangulation
 
 ---
 
@@ -52,11 +52,11 @@ The future is edge-native. AI Companion enables **localized, attritable intellig
 
 | Component              | Details                                                                       |
 | ---------------------- | ----------------------------------------------------------------------------- |
-| **Edge Processor**     | Raspberry Pi 5, NVIDIA Jetson (GPU optional), or x86 AI Box                   |
-| **Camera Options**     | High-Quality Pi Cam, USB Gimbal Cam, IR/NoIR, Thermal, 10–50x Zoom            |
+| **Edge Processor**     | Raspberry Pi 5, NVIDIA Jetson, or ALPON X5 AI                                 |
+| **Camera Options**     | High Quality Pi Cam, USB Gimbal Cam, IR/NoIR, Thermal, 10–50x Zoom            |
 | **Voice IO**           | USB/Bluetooth stereo mic + speaker                                            |
-| **Software Stack**     | On-device LLM + CV, Whisper/PicoVoice, AI model + Palantir-style Ontology     |
-| **Deployment Options** | Handheld, vehicle-mounted, wall/pole-mounted, classroom ceiling unit          |
+| **Software Stack**     | On-device LLM + CV, Whisper/PicoVoice, AI model + Palantir style Ontology     |
+| **Deployment Options** | Handheld, vehicle mounted, wall/pole-mounted, classroom ceiling unit          |
 | **Networking**         | Fully offline mode + optional web sync via CamNetwork or mesh sharing         |
 
 ---
@@ -77,7 +77,7 @@ We offer AI Companion in two configurations:
 
 | Tier                                   | Description                                                                                |
 | -------------------------------------- | ------------------------------------------------------------------------------------------ |
-| **Standalone Device**                  | Local-only mode with optional cloud sync. Price: \$499–\$2499 depending on kit             |
+| **Standalone Device**                  | Local-only mode with optional cloud sync. Price: \$199–\$2499 depending on kit             |
 | **AI as a Service (AIaaS)**            | Subscription includes: updates, APIs, ontology sync, AI models, secure cloud features      |
 
 ---
