@@ -41,6 +41,14 @@ The future is edge native. AI Companion enables localized intelligence with real
 * **Drone Support**: Drone deployment on incident detection with visual/thermal tracking
 * **Gimbal Kits**: Gimbal based target tracking and automatic sound triangulation
 
+## 📡 Camera Network
+
+* Camera mesh with linkable URLs
+* Users can share secure camera feeds
+* Triangulated location from multiple acoustic sensors
+* Integration with Palantir style backends
+* AI Models (target identification, object recognition, sound)
+
 ---
 
 ## 🛠️ Technical Overview
@@ -53,16 +61,6 @@ The future is edge native. AI Companion enables localized intelligence with real
 | **Software Stack**     | On-device model, CV, Whisper, Palantir ontology                         |
 | **Deployment Options** | Handheld, vehicle mounted, wall/pole-mounted, ceiling unit              |
 | **Networking**         | Offline mode + optional web sync via CamNetwork                         |
-
----
-
-## 📡 Camera Network
-
-* Camera mesh with linkable URLs
-* Users can share secure camera feeds
-* Triangulated location from multiple acoustic sensors
-* Integration with Palantir style backends
-* AI Models (target identification, object recognition, sound)
 
 ---
 
