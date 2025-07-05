@@ -71,7 +71,7 @@ We offer AI Companion in two configurations:
 | Tier                                   | Description                                                                                |
 | -------------------------------------- | ------------------------------------------------------------------------------------------ |
 | **Standalone Device**                  | Local-only mode with optional cloud sync. Price: \$199–\$2499 depending on kit             |
-| **Software as a Service (SaaS)**       | Subscription includes: APIs, ontology sync, secure cloud features, model updates           |
+| **Software as a Service**              | Subscription includes: APIs, ontology sync, secure cloud features, model updates           |
 
 ---
 
