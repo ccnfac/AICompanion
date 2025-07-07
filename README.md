@@ -21,12 +21,12 @@ The future is edge native. AI Companion enables localized intelligence with real
 ### 🧠 Mental Health & Learning
 
 * **Mental Health Copilot**: Secure, offline journaling and emotion monitoring sentiment.
-* **LLM Tutor & Translator**: Real time multilingual tutor and translation services using text to speech **optional** integration with cloud based LLM providers (Claude, Chatgpt, Perplexity, Gemini, Grok, Deepseek).
+* **LLM Tutor & Translator**: Real time multilingual tutor and translation services using text to speech **optional** integration with cloud based LLM providers.
 
 ### 🏥 Healthcare & Clinics
 
 * **Multilingual Patient Check-In**: Verbal onboarding using edge devices to optimize check in process.
-* **LLM Medical Assistant**: Context aware diagnosis support with **optional** integration with cloud based LLM providers (Chatgpt, Perplexity, Claude, Grok, Gemini, Deepseek).
+* **LLM Medical Assistant**: Context aware diagnosis support with **optional** integration with cloud based LLM providers.
 
 ### 🏫 School Safety & Access Control
 
