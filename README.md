@@ -25,7 +25,7 @@ The future is edge native. AI Companion enables localized intelligence with real
 
 ### 🏥 Healthcare & Clinics
 
-* **Multilingual Patient Check-In**: Visual + verbal onboarding using edge devices to optimize check in process.
+* **Multilingual Patient Check-In**: Verbal onboarding using edge devices to optimize check in process.
 * **LLM Medical Assistant**: Context aware diagnosis support with **optional** integration with cloud based LLM providers (Chatgpt, Perplexity, Claude, Grok, Gemini, Deepseek).
 
 ### 🏫 School Safety & Access Control
