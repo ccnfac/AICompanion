@@ -46,7 +46,6 @@ The future is edge native. AI Companion enables localized intelligence with real
 * Camera mesh with linkable URLs
 * Users can share secure camera feeds
 * Triangulated location from multiple acoustic sensors
-* Integration with Palantir style backends
 * AI Models (target identification, object recognition, sound)
 
 ---
