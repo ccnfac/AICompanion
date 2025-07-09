@@ -48,6 +48,21 @@ The future is edge native. AI Companion enables localized intelligence with real
 * Triangulated location from multiple acoustic sensors
 * AI Models (target identification, object recognition, sound)
 
+## 🔎 Airfield Surveillance & Air Traffic Observation
+* Monitor runways, taxiways, and apron areas with extreme detail, day or night
+* Detect unauthorized access, wildlife, debris, or erratic vehicle/aircraft behavior
+* Identify overheating components (e.g., APU, landing gear) or track jet blast zones
+* Provides a secondary, visual verification layer alongside ADS-B and MLAT
+* Track and classify aircraft or drones that do not emit transponder signals
+* Locate aircraft position by sound triangulation when visual contact or radar return is unclear
+* Use thermal + CV to detect microbursts, fog banks, hail, and other weather anomalies not visible on satellite or radar
+* Monitor precipitation, standing water, snow coverage, or dust using vision models
+* Match authorized personnel for access control without requiring central authentication
+* Trigger alerts and send real-time feed/coordinates to police or first responders
+* Detect delays, idle baggage carts, or personnel movement to optimize turnaround time
+* Real-time recognition of tail numbers, livery, and logos using AI models
+* Stream feeds securely through CamNetwork to create modular, shareable AI dashboards for ATC, security, and ground ops
+
 ---
 
 ## 🛠️ Technical Overview
