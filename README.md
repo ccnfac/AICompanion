@@ -46,7 +46,7 @@ The future is edge native. AI Companion enables localized intelligence with real
 * Camera mesh with linkable URLs
 * Users can share secure camera feeds
 * Triangulated location from multiple acoustic sensors
-* AI Models (target identification, object recognition, sound)
+* AI Models (target identification, object recognition, sound detection)
 
 ## 🔎 Airfield Surveillance & Air Traffic Observation
 * Monitor runways, taxiways, and apron areas with extreme detail, day or night
