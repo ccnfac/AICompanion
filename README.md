@@ -21,24 +21,23 @@ The future is edge native. AI Companion enables localized intelligence with real
 ### 🧠 Mental Health & Learning
 
 * **Mental Health Copilot**: Secure, offline journaling and emotion monitoring sentiment.
-* **LLM Tutor & Translator**: Real time multilingual tutor and translation services using text to speech **optional** integration with cloud based LLM providers.
+* **LLM Tutor & Translator**: Real time multilingual tutor and translation services using text to speech.
 
 ### 🏥 Healthcare & Clinics
 
 * **Multilingual Patient Check-In**: Verbal onboarding using edge devices to optimize check in process.
-* **LLM Medical Assistant**: Context aware diagnosis support with **optional** integration with cloud based LLM providers.
+* **LLM Medical Assistant**: Context aware diagnosis support with chatbot integration.
 
 ### 🏫 School Safety & Access Control
 
-* Authorized persons facial matching (optional)
 * Gun visual identification + shot detection with triangulation
 * Emergency response notifications via police linked ontology
-
+* Authorized personnel identification
+  
 ### 🚔 City & Law Enforcement
 
 * **AI Surveillance Units**: Deployable on poles, rooftops, or vehicles with counter support integration
 * **CamNetwork**: Shareable URLs, instant camera mesh, scalable from a classroom to an entire city
-* **Drone Support**: Drone deployment on incident detection with visual/thermal tracking
 * **Gimbal Kits**: Gimbal based target tracking and automatic sound triangulation
 
 ## 📡 Camera Network
@@ -46,22 +45,16 @@ The future is edge native. AI Companion enables localized intelligence with real
 * Camera mesh with linkable URLs
 * Users can share secure camera feeds
 * Triangulated location from multiple acoustic sensors
-* AI Models (target identification, object recognition, sound detection)
 
 ## 🔎 Airfield Surveillance & Air Traffic Observation
 * Monitor runways, taxiways, and apron areas with extreme detail, day or night
 * Detect unauthorized access, wildlife, debris, or erratic vehicle/aircraft behavior
-* Identify overheating components (e.g., APU, landing gear) or track jet blast zones
 * Provides a secondary, visual verification layer alongside ADS-B and MLAT
 * Track and classify aircraft or drones that do not emit transponder signals
-* Locate aircraft position by sound triangulation when visual contact or radar return is unclear
-* Use thermal + CV to detect microbursts, fog banks, hail, and other weather anomalies not visible on satellite or radar
+* Use thermal + CV to detect fog banks, hail, and other weather anomalies not visible on satellite or radar
 * Monitor precipitation, standing water, snow coverage, or dust using vision models
 * Match authorized personnel for access control without requiring central authentication
-* Trigger alerts and send real-time feed/coordinates to police or first responders
-* Detect delays, idle baggage carts, or personnel movement to optimize turnaround time
-* Real-time recognition of tail numbers, livery, and logos using AI models
-* Stream feeds securely through CamNetwork to create modular, shareable AI dashboards for ATC, security, and ground ops
+* Trigger alerts and send real-time feed/coordinates to first responders
 
 ---
 
@@ -85,7 +78,7 @@ We offer AI Companion in two configurations:
 | Tier                                   | Description                                                                                |
 | -------------------------------------- | ------------------------------------------------------------------------------------------ |
 | **Standalone Device**                  | Local-only mode with optional cloud sync. Price: \$199–\$2499 depending on kit             |
-| **Software as a Service**              | Subscription includes: APIs, ontology sync, secure cloud features, model updates           |
+| **Software as a Service**              | Subscription includes: APIs, ontology sync, secure cloud features, agentic workflows       |
 
 ---
 
