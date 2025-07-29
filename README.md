@@ -38,7 +38,7 @@ The future is edge native. AI Companion enables localized intelligence with real
 
 * **AI Surveillance Units**: Deployable on poles, rooftops, or vehicles with counter support integration
 * **CamNetwork**: Shareable URLs, instant camera mesh, scalable from a classroom to an entire city
-* **Gimbal Kits**: Gimbal based target tracking and automatic sound triangulation
+* **Gimbal Kits**: Gimbal based tracking with 50x zoom
 
 ## 📡 Camera Network
 
@@ -75,10 +75,10 @@ The future is edge native. AI Companion enables localized intelligence with real
 
 We offer AI Companion in two configurations:
 
-| Tier                                   | Description                                                                                |
-| -------------------------------------- | ------------------------------------------------------------------------------------------ |
-| **Standalone Device**                  | Local-only mode with optional cloud sync. Price: \$199–\$2499 depending on kit             |
-| **Software as a Service**              | Subscription includes: APIs, ontology sync, secure cloud features, agentic workflows       |
+| Tier                                   | Description                                                                         |
+| -------------------------------------- | ----------------------------------------------------------------------------------- |
+| **Standalone Device**                  | Local-only mode with optional cloud sync. Price: \$199–\$2499 depending on kit      |
+| **Software as a Service**              | Subscription includes: APIs, ontology sync, secure cloud features                   |
 
 ---
 
