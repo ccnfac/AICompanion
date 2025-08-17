@@ -61,14 +61,14 @@ The future is edge native. AI Companion enables localized intelligence with real
 
 ## 🛠️ Technical Overview
 
-| Component              | Details                                                                 |
-| ---------------------- | ----------------------------------------------------------------------- |
-| **Edge Processor**     | Raspberry Pi, Orange Pi, NVIDIA, LattePanda, ROCK 5, ODROID, UDOO       |
-| **Camera Options**     | Gimbal Cam, IR/NoIR, Thermal, 10–50x Zoom                               |
-| **Voice IO**           | Adafruit I2S MEMS Microphone(1-4) + Adafruit MAX98357 Mono Amp          |
-| **Software Stack**     | On-device model, CV, Whisper, Ontology                                  |
-| **Deployment Options** | Handheld, vehicle mounted, wall/pole-mounted, ceiling unit              |
-| **Networking**         | Offline mode + optional web sync via CamNetwork                         |
+| Component              | Details                                                             |
+| ---------------------- | ------------------------------------------------------------------- |
+| **Edge Processor**     | Raspberry Pi, Orange Pi, NVIDIA, LattePanda, ROCK 5, ODROID, UDOO   |
+| **Camera Options**     | Gimbal Cam, IR/NoIR, Thermal, 10–50x Zoom                           |
+| **Voice IO**           | Adafruit I2S MEMS Microphone(1-4) + I2S 3W Stereo Speaker Bonnet    |
+| **Software Stack**     | On-device model, CV, Whisper, Ontology                              |
+| **Deployment Options** | Handheld, vehicle mounted, wall/pole-mounted, ceiling unit          |
+| **Networking**         | Offline mode + optional web sync via CamNetwork                     |
 
 ---
 
