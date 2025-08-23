@@ -34,7 +34,6 @@ The future is edge native. AI Companion enables localized intelligence with real
 
 * Camera mesh with linkable URLs
 * Users can share secure camera feeds
-* Triangulated location from multiple acoustic sensors
 * n8n integrations for external automated workflows
 
 ## 🔎 Airfield Surveillance & Air Traffic Observation
@@ -43,8 +42,6 @@ The future is edge native. AI Companion enables localized intelligence with real
 * Provides a secondary, visual verification layer alongside ADS-B and MLAT
 * Track and classify aircraft or drones that do not emit transponder signals
 * Use thermal + CV to detect fog banks, hail, and other weather anomalies not visible on satellite or radar
-* Monitor precipitation, standing water, snow coverage, or dust using vision models
-* Match authorized personnel for access control without requiring central authentication
 * Trigger alerts and send real-time feed/coordinates to first responders
 
 ---
