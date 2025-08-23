@@ -18,16 +18,6 @@ The future is edge native. AI Companion enables localized intelligence with real
 
 ## 💡 Use Cases
 
-### 🧠 Mental Health & Learning
-
-* **Mental Health Copilot**: Secure, offline journaling and emotion monitoring sentiment.
-* **LLM Tutor & Translator**: Real time multilingual tutor and translation services using text to speech.
-
-### 🏥 Healthcare & Clinics
-
-* **Multilingual Patient Check-In**: Verbal onboarding using edge devices to optimize check in process.
-* **LLM Medical Assistant**: Context aware diagnosis support with chatbot integration.
-
 ### 🏫 School Safety & Access Control
 
 * Gun visual identification + shot detection with triangulation
