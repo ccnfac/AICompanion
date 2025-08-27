@@ -41,8 +41,6 @@ The future is edge native. AI Companion enables localized intelligence with real
 * Detect unauthorized access, wildlife, debris, or erratic vehicle/aircraft behavior
 * Provides a secondary, visual verification layer alongside ADS-B and MLAT
 * Track and classify aircraft or drones that do not emit transponder signals
-* Use thermal + CV to detect fog banks, hail, and other weather anomalies not visible on satellite or radar
-* Trigger alerts and send real-time feed/coordinates to first responders
 
 ---
 
@@ -52,7 +50,7 @@ The future is edge native. AI Companion enables localized intelligence with real
 | ---------------------- | ------------------------------------------------------------------- |
 | **Edge Processor**     | Raspberry Pi, Orange Pi, NVIDIA, LattePanda, ROCK 5, ODROID, UDOO   |
 | **Camera Options**     | Gimbal Cam, IR/NoIR, Thermal, 10–50x Zoom                           |
-| **Voice IO**           | Adafruit I2S MEMS Microphone(1-4) + I2S 3W Stereo Speaker Bonnet    |
+| **Voice IO**           | Adafruit I2S MEMS Microphone + I2S 3W Stereo Speaker Bonnet         |
 | **Software Stack**     | On-device model, CV, Picovoice Rhino Web SDK, Ontology              |
 | **Deployment Options** | Handheld, vehicle mounted, wall/pole-mounted, ceiling unit          |
 | **Networking**         | Offline mode + optional web sync via CamNetwork                     |
