@@ -22,11 +22,10 @@ The future is edge native. AI Companion enables localized intelligence with real
 
 * Gun visual identification + shot detection with triangulation
 * Emergency response notifications via police linked ontology
-* Authorized personnel identification
   
 ### 🚔 City & Law Enforcement
 
-* **AI Surveillance Units**: Deployable on poles, rooftops, or vehicles with counter support integration
+* **Surveillance Units**: Deployable on poles, rooftops, or vehicles with counter support integration
 * **CamNetwork**: Shareable URLs, instant camera mesh, scalable from a classroom to an entire city
 * **Gimbal Kits**: Gimbal based tracking with 50x zoom
 
@@ -34,7 +33,7 @@ The future is edge native. AI Companion enables localized intelligence with real
 
 * Camera mesh with linkable URLs
 * Users can share secure camera feeds
-* n8n integrations for external automated workflows
+* n8n integrations for automated workflows
 
 ## 🔎 Airfield Surveillance & Air Traffic Observation
 * Monitor runways, taxiways, and apron areas with extreme detail, day or night
