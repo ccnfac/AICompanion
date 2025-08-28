@@ -20,20 +20,14 @@ The future is edge native. AI Companion enables localized intelligence with real
 
 ### 🏫 School Safety & Access Control
 
-* Gun visual identification + shot detection with triangulation
-* Emergency response notifications via police linked ontology
+* Authorized personnel access control
+* Emergency response notifications 
   
 ### 🚔 City & Law Enforcement
 
-* **Surveillance Units**: Deployable on poles, rooftops, or vehicles with counter support integration
-* **CamNetwork**: Shareable URLs, instant camera mesh, scalable from a classroom to an entire city
-* **Gimbal Kits**: Gimbal based tracking with 50x zoom
-
-## 📡 Camera Network
-
-* Camera mesh with linkable URLs
-* Users can share secure camera feeds
-* n8n integrations for automated workflows
+* Deployable on poles, rooftops, or vehicles with counter support integration
+* Shareable URLs, instant camera mesh, scalable from a classroom to an entire city
+* Gimbal kits with 10 - 50x zoom, visual identification, and sound triangulation
 
 ## 🔎 Airfield Surveillance & Air Traffic Observation
 * Monitor runways, taxiways, and apron areas with extreme detail, day or night
@@ -41,6 +35,14 @@ The future is edge native. AI Companion enables localized intelligence with real
 * Provides a secondary, visual verification layer alongside ADS-B and MLAT
 * Track and classify aircraft or drones that do not emit transponder signals
 
+## 🛡️ Security & Compliance
+* Privacy First: No facial recognition, biometric tagging, or invasive individual tracking.
+* On-Device Processing: All data remains local, with no cloud storage or third-party transfer.
+* Strict Escalation Protocols: Tracking requires a valid warrant or authorized escalation.
+* Incident Focused AI: Limited to detecting patterns not persons (e.g., visible weapons, dangerous vehicle behavior, or hazardous events).
+* Controlled Access: Monitoring or evidence retrieval is bound to legal and compliance frameworks, ensuring civil liberties remain protected.
+* Transparency & Auditability: Systems are auditable to guarantee adherence to privacy, safety, and lawful usage standards.
+  
 ---
 
 ## 🛠️ Technical Overview
