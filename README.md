@@ -36,9 +36,9 @@ The future is edge native. AI Companion enables localized intelligence with real
 * Track and classify aircraft or drones that do not emit transponder signals
 
 ## 🛡️ Security & Compliance
-* Privacy First: No facial recognition, biometric tagging, or invasive individual tracking.
-* On-Device Processing: All data remains local, with no cloud storage or third-party transfer.
-* Strict Escalation Protocols: Tracking requires a valid warrant or authorized escalation.
+* Privacy First: No facial recognition, biometric tagging, or individual tracking.
+* On-Device Processing: All data remains local, with no third-party transfer.
+* Strict Escalation Protocols: Tracking requires authorized escalation.
 * Incident Focused AI: Limited to detecting patterns not persons (e.g., visible weapons, dangerous vehicle behavior, or hazardous events).
 * Controlled Access: Monitoring or evidence retrieval is bound to legal and compliance frameworks, ensuring civil liberties remain protected.
 * Transparency & Auditability: Systems are auditable to guarantee adherence to privacy, safety, and lawful usage standards.
