@@ -54,7 +54,7 @@ The future is edge native. AI Companion enables localized intelligence with real
 | **Voice IO**           | Adafruit I2S MEMS Microphone + I2S 3W Stereo Speaker Bonnet         |
 | **Software Stack**     | On-device model, CV, Picovoice Rhino Web SDK, Ontology              |
 | **Deployment Options** | Handheld, vehicle mounted, wall/pole-mounted, ceiling unit          |
-| **Networking**         | Offline mode + optional web sync via CamNetwork                     |
+| **Networking**         | Offline mode + optional web sync via Camera Network                 |
 
 ---
 
